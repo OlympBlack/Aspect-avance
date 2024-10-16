@@ -1,0 +1,29 @@
+body{
+    background-color: #42e194;
+  }
+  
+
+  .main-content {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .custom-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .custom-box a {
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .custom-box a:hover {
+    text-decoration: underline;
+  }
+ 
